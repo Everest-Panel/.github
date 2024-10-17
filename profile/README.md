@@ -1,4 +1,4 @@
-<img src="https://github.com/Everest-Panel/.github/blob/main/profile/Everest.png?raw=true" alt="drawing" width="500"/>
+<img src="https://github.com/Everest-Panel/.github/blob/main/profile/Everest.png?raw=true" alt="Icon" width="500"/>
 
 ## EPS
 **E**verest **P**anel **S**ystem
